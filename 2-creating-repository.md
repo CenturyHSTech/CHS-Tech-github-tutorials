@@ -1,5 +1,7 @@
 # Creating a Git Repository
 
+[<< Index](readme.md) [< Back](1-getting-started.md) | [Next >](3-making-changes.md)
+
 In this tutorial, we'll cover the following topics:
 
 1. Creating a repository on GitHub
@@ -28,5 +30,7 @@ To create a repository:
 3. Change your terminal's current directory to this folder by running `cd path/to/folder`, substituting in your
    - For example, if I wanted to put my work in a "NWAPW" folder in "My Documents", I would type in `cd "My Documents/NWAPW"`
    - Make sure to put double quotes around your folder path if it has spaces in it.
-4. Run `git clone git@github.com:github_username/repository_name.git`, substituting in your github username and the repository name you chose.
+4. Run `git clone https://github.com/github_username/repository_name.git`, substituting in your github username and the repository name you chose.
 5. This will make a copy of the repository as it exists on GitHub in the folder you chose. For example, if my repository was named "nwapw-repo", and I used the same folder as in the last example, it would make a copy of the repository in "My Documents/NWAPW/nwapw-repo".
+
+[<< Index](readme.md) [< Back](1-getting-started.md) | [Next >](3-making-changes.md)

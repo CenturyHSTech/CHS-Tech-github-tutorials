@@ -1,5 +1,7 @@
 # Getting Started
 
+[<< Index](readme.md) | [Next >](2-creating-repository.md)
+
 In this tutorial, we'll cover the following topics:
 
 1. Creating a GitHub account
@@ -32,3 +34,5 @@ To create your GitHub account:
    2. Type `git config --global user.email "my.email@example.com"`, substituting in your email address, and press enter.
    - These two commands will set the name and email to be associated with your git commits. The email should be the same as the one you used for GitHub.
 6. You're done! Feel free to close your terminal or git bash window.
+
+[<< Index](readme.md) | [Next >](2-creating-repository.md)

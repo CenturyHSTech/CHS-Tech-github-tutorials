@@ -1,5 +1,7 @@
 # Creating a Git Repository
 
+[<< Index](readme.md) [< Back](2-creating-repository.md) | [Next >](4-merge-conflicts.md)
+
 In this tutorial, we'll cover the following topics:
 
 1. Making and commiting changes to a local repository.
@@ -42,4 +44,6 @@ To push your changes:
 
 ## Sharing Your Repository With Us
 
-To make sure that everyone is ready for NWAPW, we ask that you share the repository you've used for this tutorial with us. To do so, just copy the link to your repository and paste it into the discord channel `#<put channel name here>` with the message "Tutorial 3 complete".
+To make sure that everyone is ready for NWAPW, we ask that you share the repository you've used for this tutorial with us. To do so, just copy the link to your repository and paste it into the discord channel `#training-complete` with the message "Tutorial 3 complete".
+
+[<< Index](readme.md) [< Back](2-creating-repository.md) | [Next >](4-merge-conflicts.md)

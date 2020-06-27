@@ -1,5 +1,7 @@
 # Merge Conflicts
 
+[<< Index](readme.md) [< Back](3-making-changes)
+
 In this page we'll cover how to resolve **merge conflicts** in your codebase.
 
 Merge conficts occur when parallel commit histories that both have changes to the same piece of code are merged. This can occur (for example) when you and a teammate both commit changes to the same piece of code at the same time, and they push their changes before you push yours.
@@ -29,3 +31,5 @@ more shared code
 ```
 
 Where everything between the `<<<<<<` and `======` is your code, and everything between `======` and `>>>>>>` is the code on GitHub.
+
+[<< Index](readme.md) [< Back](3-making-changes)
