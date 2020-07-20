@@ -1,6 +1,6 @@
 # Merge Conflicts
 
-[<< Index](readme.md) [< Back](3-making-changes)
+[<< Index](readme.md) [< Back](3-making-changes) | | [Next >](5-branching.md)
 
 In this page we'll cover how to resolve **merge conflicts** in your codebase.
 
